@@ -1,0 +1,24 @@
+
+ [
+    {
+        "productId":1,
+        "ProductDetails": {
+            "image": "",
+            "title": "white Shirt",
+            "price":30,
+            "available-sizes":{},
+            "colors":[],
+             "description":"smart red t shirt"
+        }
+    },
+    {
+        "productId": 2,
+        "ProductDetails": {
+            "image": "",
+            "title": "white Shirt",
+            "price":30
+        }
+    }
+]
+
+
